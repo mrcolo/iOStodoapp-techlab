@@ -8,6 +8,6 @@ download expo on your phone
 
 go to your camera and point the QR code on your terminal
 
-selected "open in expo"
+select "open in expo"
 
 have fun!
