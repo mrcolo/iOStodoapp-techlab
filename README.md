@@ -1,5 +1,7 @@
 # iOStodoapp-techlab
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mrcolo/iOStodoapp-techlab.svg)](https://greenkeeper.io/)
+
 npm install -g create-react-native-app
 
 npm start
